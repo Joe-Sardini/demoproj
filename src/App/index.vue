@@ -3,6 +3,7 @@
 <div>
     <p>Testing, World!</p>
     <github-input></github-input>
+    <github-output></github-output>
 </div>
 </template>
 <script src="./script.js"></script>
